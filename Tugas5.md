@@ -26,14 +26,14 @@ Gunakan perintah `$ mkdir` untuk membuat direktori baru. Ketika mencoba membuat 
 <img width="410" alt="Screenshot 2024-09-19 085224" src="https://github.com/user-attachments/assets/d72a9740-f269-4ec6-87e6-96f74be9ee4d">
 
 ### 6. Urutkan file berikut dengan menggunakan notasi here document : ###
-### sort <<@@@ ###
-### Jakarta ###
-### Bandung ### 
-### Surabaya ###
-### Padang ###
-### Palembang ###
-### Lampung ###
-### @@@ ###
+#### sort <<@@@ ####
+#### Jakarta ####
+#### Bandung ####
+#### Surabaya ####
+#### Padang ####
+#### Palembang ####
+#### Lampung ####
+#### @@@ ####
 Pertama, buat notasi *here document* yang dialihkan ke sebuah file, lalu isi dokumen tersebut. Setelah diisi dan diakhiri, isinya akan tersimpan ke file yang dialihkan. File tersebut kemudian dapat diurutkan menggunakan perintah `$ sort`.
 
 <img width="410" alt="Screenshot 2024-09-19 085422" src="https://github.com/user-attachments/assets/38fe441f-025a-4b2a-8299-fd36d5eebaed">
